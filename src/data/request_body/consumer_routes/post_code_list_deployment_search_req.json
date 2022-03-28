@@ -1,0 +1,15 @@
+{
+  "codeValueLists": [
+   "DisputedReasonCode",
+   "AffiliationType",
+   "AddressType",
+   "CountryCode",
+   "GenderCode",
+   "MaritalStatus",
+   "StateCode",
+   "PartyType"
+  ],
+  "applicability": {
+    "state": "IN"
+  }
+}

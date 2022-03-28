@@ -1,0 +1,32 @@
+{
+  "codeValueLists": [
+    "DisputedReasonCode",
+      "AffiliationType",
+      "AddressType",
+      "CountryCode",
+      "GenderCode",
+      "MaritalStatus",
+      "StateCode",
+      "PartyType"  ],
+  "deploymentIds": [
+    5299228,
+      5299825,
+      5300130,
+      5300136,
+      5300139,
+      5300144,
+      5300204,
+      5300821,
+      5300827,
+      5300829,
+      5300836,
+      5300906,
+      5300909,
+      5300957,
+      5315515,
+      5317425,
+      5322152,
+      5322167  ],
+  "applicabilityIds": [
+    4654586  ]
+}

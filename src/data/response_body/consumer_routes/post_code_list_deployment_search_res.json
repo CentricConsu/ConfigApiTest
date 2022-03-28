@@ -1,0 +1,112 @@
+{
+    "deployments": [
+        {
+            "code": "AddressType",
+            "deploymentId": 5299228,
+            "applicabilityIds": [
+                1430791,
+                1490388,
+                1490407,
+                1490423,
+                4654586
+            ]
+        },
+        {
+            "code": "AffiliationType",
+            "deploymentId": 5299228,
+            "applicabilityIds": [
+                1490388,
+                1490407,
+                1490423,
+                4654586
+            ]
+        },
+        {
+            "code": "CountryCode",
+            "deploymentId": 5299228,
+            "applicabilityIds": [
+                1430791,
+                4654586
+            ]
+        },
+        {
+            "code": "DisputedReasonCode",
+            "deploymentId": 5299228,
+            "applicabilityIds": [
+                1810258,
+                2938969,
+                4654586,
+                5298812,
+                5299491
+            ]
+        },
+        {
+            "code": "GenderCode",
+            "deploymentId": 5299228,
+            "applicabilityIds": [
+                1430791,
+                4654586
+            ]
+        },
+        {
+            "code": "MaritalStatus",
+            "deploymentId": 5299228,
+            "applicabilityIds": [
+                1430791,
+                4654586
+            ]
+        },
+        {
+            "code": "PartyType",
+            "deploymentId": 5299228,
+            "applicabilityIds": [
+                1430791,
+                4654586
+            ]
+        },
+        {
+            "code": "StateCode",
+            "deploymentId": 5299228,
+            "applicabilityIds": [
+                1430791,
+                4654586
+            ]
+        },
+        {
+            "code": "StateCode",
+            "deploymentId": 5606126,
+            "applicabilityIds": [
+                5601911
+            ]
+        }
+    ],
+    "summary": {
+        "codeValueLists": [
+            "DisputedReasonCode",
+            "AffiliationType",
+            "AddressType",
+            "CountryCode",
+            "GenderCode",
+            "MaritalStatus",
+            "StateCode",
+            "PartyType"
+        ],
+        "deploymentIds": [
+            5299228,
+            5606126
+        ],
+        "applicabilityIds": [
+            1430791,
+            1490388,
+            1490407,
+            1490423,
+            1810258,
+            2938969,
+            4654586,
+            5298812,
+            5299491,
+            5601911
+        ],
+        "customCriteria": {}
+    }
+}

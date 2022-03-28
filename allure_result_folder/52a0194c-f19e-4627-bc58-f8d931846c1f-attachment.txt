@@ -1,0 +1,2 @@
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:228 Starting new HTTP connection (1): localhost:5000
+[35mDEBUG   [0m urllib3.connectionpool:connectionpool.py:456 http://localhost:5000 "POST /api/v7/CodeLists/Deployments/Search HTTP/1.1" 200 None

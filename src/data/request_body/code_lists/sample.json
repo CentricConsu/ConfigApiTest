@@ -1,0 +1,19 @@
+{
+"department": {
+"id": 11,
+"name": "Computer",
+
+"employee": [
+{
+"id": "1",
+"firstName": "Tom",
+"lastName": "Cruise"
+},
+{
+"id": "2",
+"firstName": "Maria",
+"lastName": "Sharapova"
+}
+]
+}
+}
